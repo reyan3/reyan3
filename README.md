@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 **Hi, I'm Reyan Hussain**  <br><br>💻 **Passionate About:** Programming and its surrounding disciplines  <br>📚 **Currently Learning:** Web Development  <br>🔍 **Interests:** Software development, problem-solving, and emerging technologies  <br><br>📬 **Connect With Me:**  <br>- [LinkedIn](https://www.linkedin.com/in/reyan-hussain-235a1733b)  <br>- 📧 Email: clan6229@gmail.com  <br><br>😄 **Pronouns:** He/Him  <br>⚡ **Fun Fact:** I enjoy exploring the latest trends in technology and constantly challenging myself with new coding projects.  <br>
+👋 **Hi, I'm Reyan Hussain**  <br><br>💻 **Passionate About:** Programming and its surrounding disciplines  <br>📚 **Currently Learning:** Web Development  <br>🔍 **Interests:** Software development, problem-solving, and emerging technologies  <br><br>😄 **Pronouns:** He/Him  <br>⚡ **Fun Fact:** I enjoy exploring the latest trends in technology and constantly challenging myself with new coding projects.  <br>
 
 
 ## 🌐 Socials:
